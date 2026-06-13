@@ -196,6 +196,6 @@ body{
 
 /* FINAL: exact uploaded logo, 50% larger than 260px. Do not alter artwork. */
 .brand{min-width:0!important;background:transparent!important;border:0!important;padding:0!important;border-radius:0!important;box-shadow:none!important;max-width:none!important;}
-.brand img{width:390px!important;height:auto!important;max-height:none!important;object-fit:contain!important;object-position:left center!important;filter:none!important;box-shadow:none!important;background:transparent!important;}
-@media(max-width:900px){.brand img{width:330px!important;}}
-@media(max-width:600px){.brand img{width:270px!important;}}
+.brand img{width:195px!important;height:auto!important;max-height:none!important;object-fit:contain!important;object-position:left center!important;filter:none!important;box-shadow:none!important;background:transparent!important;}
+@media(max-width:900px){.brand img{width:165px!important;}}
+@media(max-width:600px){.brand img{width:135px!important;}}
