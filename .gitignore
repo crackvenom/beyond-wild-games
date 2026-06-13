@@ -1,1 +1,5 @@
 CLAUDE_CODE_BRIEF.md
+node_modules/
+package.json
+package-lock.json
+make-transparent-logo.js
